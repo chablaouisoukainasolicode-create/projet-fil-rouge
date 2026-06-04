@@ -187,7 +187,7 @@ Projet réalisé dans le cadre d'une formation en développement web Full Stack.
 
 ### 📬 Contact
 
-* Email : [votre-email@example.com](chablaoui.soukaina.solicode@gmail.com)
+* Email : [chablaoui.soukaina.solicode@gmail.com](chablaoui.soukaina.solicode@gmail.com)
 * GitHub : https://github.com/chablaouisoukainasolicode-create
 
 ---
